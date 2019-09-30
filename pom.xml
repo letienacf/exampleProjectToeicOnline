@@ -36,5 +36,7 @@
     <module>toeic-core-service</module>
     <module>toeic-core-service-impl</module>
     <module>toeic-core-utils</module>
+    <module>toeic-core-persitace-data</module>
+    <module>toeic-core-common</module>
   </modules>
 </project>
